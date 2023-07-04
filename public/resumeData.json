@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Muhammad Rizky Amalsyah",
+    "description": "Web Developer | System Analyst",
+    "github": "https://github.com/RizkyAmalsyah",
+    "project": "https://github.com/RizkyAmalsyah",
+    "bio": "Second-year student pursuing a Bachelor's Degree in Information System at Sriwijaya University. Possessing strong interest and passion for system development and data analyst, I am a fast learner with excellent self-management skills. With a proven track record of successfully leading a coursework project in developing an information system, I demonstrate exceptional leadership and communication abilities.",
+    "image": "profilepic.jpg",
+    "contactmessage": "Please contact the contact below.",
+    "email": "rizkyamalsyah5@gmail.com",
+    "phone": "+62 819-2726-8867",
+    "address":{
+      "street": "Jl. Sukorejo",
+      "city": "Palembang",
+      "state": "South Sumatera",
+      "zip": "30151"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/1vDMiNwybMxci2IlVbEqa-slq-mWWsOtJ/view?usp=sharing",
+    "social":[
+      {
+        "name": "facebook",
+        "url": "https://github.com/rizkyamalsyah",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/muhammad-rizky-amalsyah17/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rizky_amalsyah/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RizkyAmalsyah/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+    "education": [
+      {
+        "school": "Sriwijaya University",
+        "degree": "Bachelor Degree of Information System",
+        "graduated": "August 2021 - present",
+        "description": "Relevant Coursework: Web Programming, Algorithms and Data Structures, Databases, Structured Systems Analysis and Design, Software Engineering, Object Oriented Programming, User Experience Design."
+      },
+      {
+        "school": "SMK Negeri 2 Palembang",
+        "degree": "Computer and Network Engineering",
+        "graduated": "May 2018 - May 2021",
+        "description": "Relevant Coursework: Network topology, Network address, Configuration switch and routing, application installation"
+      }
+    ],
+    "work": [
+      {
+        "company": "Himpunan Mahasiswa Sistem Informasi",
+        "title": "Head of Secretarial Department",
+        "years": "Jan 2023 - present",
+        "description": "Provide guidance and training to the Secretarial Department staff on creating proposals, accountability reports, and letters."
+      },
+      {
+        "company": "Himpunan Mahasiswa Sistem Informasi",
+        "title": "Staff of Secretarial Department",
+        "years": "Feb 2022 - Dec 2022",
+        "description": "Received an award for being the most active staff member in the Secretarial Department"
+      },
+      {
+        "company": "AirNav Indonesia",
+        "title": "Personnel And Finance Division (Internship)",
+        "years": "Jan 2020 - Mar 2020",
+        "description": "Efficiently organized and sorted over 100 corporate documents, ensuring proper storage and printing when required."
+      }
+    ],
+    "skills": [
+      {
+        "name" : "HTML & CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP (Laravel)",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "Ms. Office",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Analisis & Perancangan Sistem Informasi Pengarsipan Dokumen",
+        "category": "System Analyst",
+        "image": "01.png",
+        "url": "https://drive.google.com/file/d/1t2PM1z-bxK5RowQIWkpiQ-k0vB9paXcU/view"
+      },
+      {
+        "title":"Perancangan UX Design Thinking: Website RS Muhammadiyah Palembang",
+        "category":"Perancangan UI/UX",
+        "image":"02.png",
+        "url":"https://drive.google.com/file/d/1EFBemvX_K6egGNTOQie2fUbnZT8YcQW9/view?usp=sharing"
+      },
+      {
+        "title":"Personal Simple Website menggunakan HTML, CSS & JavaScript",
+        "category":"Frontend Website",
+        "image":"03.png",
+        "url":"https://rizkyamalsyah.github.io/"
+      },
+      {
+        "title":"Pembuatan Modul Database Apotik dengan menggunakan SQL",
+        "category":"A React based resume website template",
+        "image":"04.png",
+        "url":"https://drive.google.com/file/d/1wlIZVNqvkL4AbujMC_C-sa-54-NnvJom/view?usp=sharing"
+      }
+    ]
+  }
+}
